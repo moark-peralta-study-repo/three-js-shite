@@ -5,8 +5,7 @@ import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js'
 
 /**
  * Base
- */
-// Debug
+ */ // Debug
 const gui = new GUI()
 
 // Canvas
@@ -180,7 +179,7 @@ const tick = () => {
         currentIntersect = intersects[0];
     } else {
         if (currentIntersect) {
-            console.log('mouse leave')
+            console.log('m.2ouse leave')
         }
         currentIntersect = null;
     }
