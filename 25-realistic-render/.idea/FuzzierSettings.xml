@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.mituuz.fuzzier.FuzzierSettings">
+    <option name="exclusionSet">
+      <set>
+        <option value="/.idea/*" />
+        <option value="/.git/*" />
+        <option value="/target/*" />
+        <option value="/build/*" />
+        <option value="/.gradle/*" />
+        <option value="/.run/*" />
+        <option value="node_modules/*" />
+      </set>
+    </option>
+    <option name="modules">
+      <map>
+        <entry key="25-realistic-render" value="$PROJECT_DIR$" />
+      </map>
+    </option>
+  </component>
+</project>
